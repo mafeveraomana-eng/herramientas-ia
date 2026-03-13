@@ -6,6 +6,7 @@
 
 Nombre claro y específico de la funcionalidad o servicio a implementar.
 NOTA: El título debe contener intención arquitectónica, no solo el tema.
+
 Ejemplo:
 -Mal: "Calcular impuestos"
 -Bien: "Servicio desacoplado de cálculo de impuestos por país"
